@@ -1,4 +1,4 @@
-# packages needed for this image ------------------------------------------
+## packages included in this image
 
 install.packages("devtools")
 devtools::install_github("tidyverse/tidyr")
