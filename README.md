@@ -5,7 +5,8 @@ Just a basic R Dockerimage compatible with Java. Ridyverse, h2o and some other p
 Packages which are directly installed:
 * tidyverse
 * devtools
-* h2o
+* RCurl
+* h2o (from http://h2o-release.s3.amazonaws.com/h2o/master/4670/R)
 * httr
 * lubridate
 * here
